@@ -2,7 +2,7 @@
 
 ## 👋 I am:
 - 🎓 M.Eng Electrical & Computer Engineering @ University of Ottawa
-- 🍎 Former 3x Intern @ Apple (Firmware & Automation & System)
+-  Former 3x Intern @ Apple (Firmware & Automation & System)
 
 ---
 
