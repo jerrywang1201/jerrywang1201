@@ -1,19 +1,30 @@
-![Header](./assets/header.jpg)
-
-## 👋 I am:
-- 🎓 M.Eng Electrical & Computer Engineering @ University of Ottawa
--  Former 3x Intern @ Apple (Firmware & Automation & System)
-
----
-
-## 📫 Reach Out!
-- 📧 Email: jerrywang1201@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/jw1201
+![header](./assets/header.jpg)
 
 
 ---
 
-## 💻 Languages / Frameworks
+### Overview
+
+I work on firmware bring-up and system-level debugging.
+
+My focus is making hardware talk, making failures visible,
+and making systems debuggable when they are not supposed to be.
+
+---
+
+### Scope
+
+▸ ARM Cortex-M bring-up (bare-metal / RTOS)  
+▸ BSP and driver integration  
+▸ Low-level debug: JTAG / SWD / GDB / OpenOCD  
+▸ Embedded Linux system bring-up  
+▸ Firmware test automation  
+▸ Log-driven failure analysis  
+
+---
+
+### Languages
+
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252)
@@ -24,15 +35,8 @@
 
 ---
 
-## 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
+### Systems & Tooling
 
----
-
-## 🛠 Tools / Technologies
 ![ARM](https://img.shields.io/badge/ARM-Cortex--M-0091BD)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D)
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-BSP%20%26%20Drivers-FCC624?logo=linux)
@@ -44,9 +48,28 @@
 
 ---
 
-## 🤖 AI / Intelligent Systems
-AI-assisted debugging and analysis tools for firmware bring-up, log triage, and system-level reasoning.
+### Data & Infrastructure
 
-![LLM](https://img.shields.io/badge/LLM--based%20Tools-4B0082)
-![Vector DB](https://img.shields.io/badge/Vector%20Database-009688)
-![JSON](https://img.shields.io/badge/Structured%20Data-JSON-black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
+
+Used for telemetry, logs, and test result aggregation.
+
+---
+
+### AI-Assisted Tooling
+
+AI used as a debugging aid.
+
+▸ Firmware log triage  
+▸ Failure pattern extraction  
+▸ System-level reasoning across test outputs  
+
+---
+
+### Contact
+
+Email    : jerrywang1201@gmail.com  
+LinkedIn : https://linkedin.com/in/jw1201
