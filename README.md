@@ -3,7 +3,7 @@
 
 ---
 
-### Overview
+### overview
 
 I work on firmware bring-up and system-level debugging.
 
@@ -12,7 +12,12 @@ and making systems debuggable when they are not supposed to be.
 
 ---
 
-### Scope
+### [my writeup](https://jerrywang1201.github.io/myself/)
+
+
+---
+
+### scope
 
 ▸ ARM Cortex-M bring-up (bare-metal / RTOS)  
 ▸ BSP and driver integration  
@@ -23,7 +28,7 @@ and making systems debuggable when they are not supposed to be.
 
 ---
 
-### Languages
+### languages
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
@@ -35,7 +40,7 @@ and making systems debuggable when they are not supposed to be.
 
 ---
 
-### Systems & Tooling
+### systems & tooling
 
 ![ARM](https://img.shields.io/badge/ARM-Cortex--M-0091BD)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D)
@@ -48,7 +53,7 @@ and making systems debuggable when they are not supposed to be.
 
 ---
 
-### Contact
+### contact
 
 Email    : jerrywang1201@gmail.com  
 LinkedIn : https://linkedin.com/in/jw1201
