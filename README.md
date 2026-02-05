@@ -48,16 +48,6 @@ and making systems debuggable when they are not supposed to be.
 
 ---
 
-### AI-Assisted Tooling
-
-AI used as a debugging aid.
-
-▸ Firmware log triage  
-▸ Failure pattern extraction  
-▸ System-level reasoning across test outputs  
-
----
-
 ### Contact
 
 Email    : jerrywang1201@gmail.com  
