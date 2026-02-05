@@ -48,17 +48,6 @@ and making systems debuggable when they are not supposed to be.
 
 ---
 
-### Data & Infrastructure
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
-
-Used for telemetry, logs, and test result aggregation.
-
----
-
 ### AI-Assisted Tooling
 
 AI used as a debugging aid.
